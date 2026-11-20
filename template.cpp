@@ -7,6 +7,8 @@ using namespace std;
 void yes() { cout << "YES" << '\n'; }
 void no() { cout << "NO" << '\n'; }
 
+// TODO: Implement reading input for vector
+
 void solve() {}
 
 int main() {
