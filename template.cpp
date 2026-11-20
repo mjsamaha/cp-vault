@@ -7,17 +7,7 @@ using namespace std;
 void yes() { cout << "YES" << '\n'; }
 void no() { cout << "NO" << '\n'; }
 
-void solve() {
-
-  int n;
-  cin >> n;
-
-  if (n > 2 && n % 2 == 0) {
-    yes();
-  } else {
-    no();
-  }
-}
+void solve() {}
 
 int main() {
 
