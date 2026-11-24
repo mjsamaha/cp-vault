@@ -1,3 +1,4 @@
+// A. Iroha and Haiku (ABC) - https://atcoder.jp/contests/abc042/tasks/abc042_a
 #include <bits/stdc++.h>
 
 using namespace std;
