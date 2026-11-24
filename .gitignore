@@ -3,4 +3,5 @@
 *.obj
 build/
 .cache/
-
+*.in
+*.out

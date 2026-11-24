@@ -1,9 +1,9 @@
 To cover:
 
-- vector
-- array
-- string
-- deque
+- vector X
+- array X
+- string X
+- deque X
 - list
 - set / multiset
 - map / multimap
