@@ -1,25 +1,22 @@
-/**
-Author: lobsterchops
-*/
 #include <bits/stdc++.h>
+
 using namespace std;
 
-void yes() { cout << "YES" << '\n'; }
-void no() { cout << "NO" << '\n'; }
+using ll = long long;
+using ld = long double;
 
-// TODO: Implement reading input for vector
+constexpr int INF = 1e9;
+constexpr ll LINF = 4e18;
 
-void solve() {}
+void solve() {
+
+}
 
 int main() {
-
-  // fast I/O
   ios::sync_with_stdio(false);
   cin.tie(nullptr);
 
   // int t; cin >> t; while (t--)
-  
-  solve();
 
-  return 0;
+  solve();
 }
