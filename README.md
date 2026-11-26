@@ -71,5 +71,4 @@ Minimal on purpose: fast `cin`/`cout`, small vector/pair read and print helpers,
 
 ## Notes
 
-- `ref/` is for my own implementations, written while practicing. Not copied from anywhere.
 - Solutions are not guaranteed optimal. Some are first accepted submissions.
