@@ -96,5 +96,7 @@ int main() {
   // erase the removed elements from the vector
   numz.erase(itx, numz.end());
 
+  
+
   return 0;
 }
